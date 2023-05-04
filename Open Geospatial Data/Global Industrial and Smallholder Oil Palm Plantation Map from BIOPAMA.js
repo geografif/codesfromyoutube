@@ -1,5 +1,4 @@
 // Global Industrial and Smallholder Oil Palm Plantation Map from BIOPAMA
-// by Geografif
 // Run on Google Earth Engine: https://destyy.com/egvTGR
 
 // Define dataset
